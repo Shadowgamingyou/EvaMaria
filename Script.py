@@ -1,7 +1,7 @@
 class script(object):
-    START_TXT = """Hey bro welcome to tintumon bot bro sugamaano channelil join cheyyan marakkalle
+    START_TXT = """Hey bro welcome don't forget to join my channel😝 Nothing to say enjoy just add me to your group and see my power💪💪✨️
 """
-    HELP_TXT = """ദ്യവമേ എന്നെ മാത്രം രക്ഷിക്കണേ 
+    HELP_TXT = """ദൈവമേ എന്നെ മാത്രം രക്ഷിക്കണേ 
  """
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: Bilal
